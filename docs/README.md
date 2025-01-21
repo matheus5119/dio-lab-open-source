@@ -20,6 +20,8 @@ docs/
 ├── index.html
 └── README.md
 ```
+[![GitHub Streak](https://streak-stats.demolab.com/?user=matheus5119&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
